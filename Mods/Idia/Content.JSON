@@ -1,0 +1,40 @@
+{
+   "Format": "2.4.0",
+   "Changes": [
+      {
+         "LogName": "Portrait",
+           "Action": "Load",
+         "Target": "Portraits/Sebastian",
+           "FromFile": "assets/Idia.png"
+        },
+        {
+         "LogName": "Portrait_Winter",
+           "Action": "Load",
+         "Target": "Portraits/Sebastian_Winter",
+           "FromFile": "assets/Idiawinter.png"
+        },
+        {
+         "LogName": "Portrait_Beach",
+           "Action": "Load",
+         "Target": "Portraits/Sebastian_Beach",
+           "FromFile": "assets/Idiabeach.png"
+        },
+      {
+         "LogName": "Name",
+         "Action": "EditData",
+         "Target": "Strings/NPCNames",
+         "Entries": {
+         "Sebastian": "Idia"
+         }
+      },
+      {
+         "LogName": "Dialogue_Changes",
+         "Action":"EditData",
+         "Target": "Characters/Dialogue/Sebastian",
+         "Entries":{
+         "Introduction": "Huh? Oh you're the farmer, well it's nice to meet you.#$e#My name is Idia Shroud, I wonder... What fruits you can make. Or vegtables.#$e#Can you produce Bloxyfruits, like in those games?$h"
+         }
+      }
+
+   ]
+}

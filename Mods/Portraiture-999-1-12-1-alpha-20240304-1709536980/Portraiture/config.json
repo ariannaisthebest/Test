@@ -1,0 +1,20 @@
+{
+  "changeKey": "P",
+  "menuKey": "M",
+  "fixPortraitKey": "O",
+  "styleChangeKey": "I",
+  "ShowPortraitsAboveBox": false,
+  "MaxAbovePortraitPercent": 80,
+  "SideLoadHDPWhenNotInstalled": false,
+  "SideLoadHDPWhenInstalled": false,
+  "HPDOption": true,
+  "active": "Idia",
+  "presets": {
+    "Presets": [
+      {
+        "Character": "Sebastian",
+        "Portraits": "Idia"
+      }
+    ]
+  }
+}

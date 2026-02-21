@@ -1,0 +1,11 @@
+{
+   "Name": "Idia Sebastian Replacer",
+   "Author": "Yana",
+   "Version": "1.6.0",
+   "Description": "Idia is supper coolio",
+   "UniqueID": "Yana.IdiaSebastianReplacer",
+   "UpdateKeys": ["Nexus:29731"], 
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
